@@ -1,2 +1,2 @@
 # Python
-Curso de python
+Curso de python impartido en IES Zaidin Vergeles
