@@ -4,5 +4,4 @@ una línea distinta.'''
 
 cesta = input("Escribe productos de la cesta de la compra, separados por comas: ")
 lista = cesta.split(",")
-for producto in lista:
-    print(producto)
+print("\n".join(lista))
