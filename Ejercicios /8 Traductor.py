@@ -1,15 +1,3 @@
-diccionario = { "Fresa":"strawberry",
-                "hola": "hello",
-                "adiós": "goodbye",
-                "gracias": "thank you",
-                "por favor": "please",
-                "perro": "dog",
-                "gato": "cat",
-                "casa": "house",
-                "baya": "berry",
-                "comida": "food",
-                "agua": "water"
-            }
 
 diccionario = {
     "hello": "hola",
@@ -21,7 +9,15 @@ diccionario = {
     "house": "casa",
     "berry": "baya",
     "food": "comida",
-    "water": "agua"
+    "water": "agua",
+    'fox': 'zorro',
+    'quick': 'rápido',
+    'brown': 'marrón',
+    'jumps': 'salta',
+    'over': 'sobre',
+    'lazy': 'perezoso',
+    'fast': 'veloz',
+    'fat': 'gordo',
 }
 
 palabra = input("Introduce una palabra en inglés: ").lower()
