@@ -10,4 +10,3 @@ if num < 0:
     print("El número debe ser positivo.")
 else:
     print(f"El factorial de {num} es {factorial(num)}") 
-    
