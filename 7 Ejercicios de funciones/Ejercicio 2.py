@@ -2,5 +2,6 @@
 pantalla el saludo ¡hola <nombre>!.'''
 
 def saludar(nombre):
-    print(f"¡Hola {nombre}!")   
-saludar("Ana")
+    print("Hola " + nombre)   
+nombre = input("Introduce tu nombre: ")
+saludar(nombre)
